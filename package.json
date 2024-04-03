@@ -1,0 +1,14 @@
+{
+  "name": "@kris2856/blue",
+  "version": "1.1.1",
+  "description": "Log in blue color.",
+  "license": "MIT",
+  "repository": "bamblehorse/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "bamblehorse"
+  ]
+}
